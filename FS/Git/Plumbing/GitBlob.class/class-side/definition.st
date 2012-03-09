@@ -1,0 +1,2 @@
+GitBlob class
+	instanceVariableNames: ''

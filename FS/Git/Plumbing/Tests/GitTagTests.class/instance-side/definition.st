@@ -1,0 +1,1 @@
+GitTestCase subclass: #GitTagTests	instanceVariableNames: 'repository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Tests'

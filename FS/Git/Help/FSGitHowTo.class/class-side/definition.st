@@ -1,0 +1,2 @@
+FSGitHowTo class
+	instanceVariableNames: ''

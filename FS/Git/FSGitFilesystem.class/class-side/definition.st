@@ -1,0 +1,2 @@
+FSGitFilesystem class
+	instanceVariableNames: ''

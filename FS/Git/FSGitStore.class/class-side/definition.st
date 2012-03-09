@@ -1,0 +1,2 @@
+FSGitStore class
+	instanceVariableNames: ''

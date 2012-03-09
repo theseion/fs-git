@@ -1,0 +1,2 @@
+PackfileTests class
+	instanceVariableNames: ''

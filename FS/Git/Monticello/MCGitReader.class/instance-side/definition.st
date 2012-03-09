@@ -1,0 +1,1 @@
+MCReader subclass: #MCGitReader	instanceVariableNames: 'infoCache definitions info dependencies package'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

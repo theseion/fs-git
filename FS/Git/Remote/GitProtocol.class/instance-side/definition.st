@@ -1,0 +1,1 @@
+AbstractGitProtocol subclass: #GitProtocol	instanceVariableNames: 'refs socketStream'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

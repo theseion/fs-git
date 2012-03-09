@@ -1,0 +1,1 @@
+Object subclass: #FSGitRepository	instanceVariableNames: 'repository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git'

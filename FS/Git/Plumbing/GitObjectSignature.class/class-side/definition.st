@@ -1,0 +1,2 @@
+GitObjectSignature class
+	instanceVariableNames: ''

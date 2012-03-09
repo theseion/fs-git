@@ -1,0 +1,1 @@
+GitError subclass: #GitInvalidObjectError	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Exceptions'

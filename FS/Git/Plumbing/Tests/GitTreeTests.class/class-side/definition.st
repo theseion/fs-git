@@ -1,0 +1,2 @@
+GitTreeTests class
+	instanceVariableNames: ''

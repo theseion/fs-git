@@ -1,0 +1,2 @@
+GitInvalidRepositoryError class
+	instanceVariableNames: ''

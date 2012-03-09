@@ -1,0 +1,1 @@
+TestCase subclass: #PackfileTests	instanceVariableNames: 'packReader filesystem repository packFile indexFile'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Tests'

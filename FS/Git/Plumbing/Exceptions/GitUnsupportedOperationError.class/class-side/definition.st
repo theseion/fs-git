@@ -1,0 +1,2 @@
+GitUnsupportedOperationError class
+	instanceVariableNames: ''

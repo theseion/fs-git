@@ -1,0 +1,1 @@
+MCWriter subclass: #MCGitWriter	instanceVariableNames: ''	classVariableNames: 'EscapeCharacters'	poolDictionaries: ''	category: 'FS-Git-Monticello'

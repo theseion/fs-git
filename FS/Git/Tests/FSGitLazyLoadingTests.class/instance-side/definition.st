@@ -1,0 +1,1 @@
+GitTestCase subclass: #FSGitLazyLoadingTests	instanceVariableNames: 'filesystem repository workingCopy'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Tests'

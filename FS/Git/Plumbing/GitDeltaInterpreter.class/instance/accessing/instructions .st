@@ -1,0 +1,4 @@
+
+!GitDeltaInterpreter methodsFor: 'accessing' stamp: 'tonyg 2/23/2010 12:01'!
+instructions: anObject
+	instructions := anObject! !

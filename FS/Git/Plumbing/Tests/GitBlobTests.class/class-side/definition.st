@@ -1,0 +1,2 @@
+GitBlobTests class
+	instanceVariableNames: ''

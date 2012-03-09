@@ -1,0 +1,2 @@
+GitDumbHtppProtocol class
+	instanceVariableNames: ''

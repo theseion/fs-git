@@ -1,0 +1,1 @@
+GitHttpProtocol subclass: #GitSmartHtppProtocol	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

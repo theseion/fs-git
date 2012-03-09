@@ -1,0 +1,1 @@
+Notification subclass: #GitStampNameRequest	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Notifications'

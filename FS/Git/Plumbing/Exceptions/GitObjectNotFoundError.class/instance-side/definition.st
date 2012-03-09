@@ -1,0 +1,1 @@
+GitError subclass: #GitObjectNotFoundError	instanceVariableNames: 'data'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Exceptions'

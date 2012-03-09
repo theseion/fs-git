@@ -1,0 +1,1 @@
+GitHttpProtocol subclass: #GitDumbHtppProtocol	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

@@ -1,0 +1,1 @@
+FSStore subclass: #FSGitStore	instanceVariableNames: 'revision cache modManager repository cacheStore'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git'

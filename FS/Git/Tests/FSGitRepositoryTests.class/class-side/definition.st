@@ -1,0 +1,2 @@
+FSGitRepositoryTests class
+	instanceVariableNames: ''

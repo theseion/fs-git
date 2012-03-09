@@ -1,0 +1,2 @@
+GitObjectSignatureTests class
+	instanceVariableNames: ''

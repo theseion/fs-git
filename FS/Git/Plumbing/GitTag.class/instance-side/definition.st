@@ -1,0 +1,1 @@
+GitTaglikeObject subclass: #GitTag	instanceVariableNames: 'tagger object name'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

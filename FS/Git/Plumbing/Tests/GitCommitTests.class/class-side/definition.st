@@ -1,0 +1,2 @@
+GitCommitTests class
+	instanceVariableNames: ''

@@ -1,0 +1,2 @@
+GitInvalidObjectError class
+	instanceVariableNames: ''

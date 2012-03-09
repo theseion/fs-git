@@ -1,0 +1,2 @@
+FSGitLazyLoadingTests class
+	instanceVariableNames: ''

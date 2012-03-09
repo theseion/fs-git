@@ -1,0 +1,1 @@
+Notification subclass: #FSGitSwitchBranchRequest	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Notifications'

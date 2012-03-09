@@ -1,0 +1,2 @@
+GitStampEmailRequest class
+	instanceVariableNames: ''

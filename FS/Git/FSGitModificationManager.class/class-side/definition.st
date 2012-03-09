@@ -1,0 +1,2 @@
+FSGitModificationManager class
+	instanceVariableNames: ''

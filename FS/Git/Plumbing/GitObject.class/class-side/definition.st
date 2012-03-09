@@ -1,0 +1,2 @@
+GitObject class
+	instanceVariableNames: ''

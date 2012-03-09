@@ -1,0 +1,2 @@
+FSGitResetRequest class
+	instanceVariableNames: ''

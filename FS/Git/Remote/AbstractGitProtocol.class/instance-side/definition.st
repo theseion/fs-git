@@ -1,0 +1,1 @@
+Object subclass: #AbstractGitProtocol	instanceVariableNames: 'url'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

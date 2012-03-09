@@ -1,0 +1,1 @@
+Object subclass: #MCGitClassReader	instanceVariableNames: 'classFolder definitions className classDefinition instanceMethodDefinitions classMethodDefinitions'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

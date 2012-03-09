@@ -1,0 +1,1 @@
+GitError subclass: #GitInvalidPackfileError	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Exceptions'

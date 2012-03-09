@@ -1,0 +1,1 @@
+Object subclass: #FSGitModificationManager	instanceVariableNames: 'createdPaths deletedPaths repository cache treeMap storedObjects hasChanges'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git'

@@ -1,0 +1,2 @@
+GitStorableObject class
+	instanceVariableNames: ''

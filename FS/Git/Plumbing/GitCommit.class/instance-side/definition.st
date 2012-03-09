@@ -1,0 +1,1 @@
+GitTaglikeObject subclass: #GitCommit	instanceVariableNames: 'tree parents author committer isLoaded'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

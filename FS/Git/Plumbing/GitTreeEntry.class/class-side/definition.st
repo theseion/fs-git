@@ -1,0 +1,2 @@
+GitTreeEntry class
+	instanceVariableNames: ''

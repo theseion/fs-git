@@ -1,0 +1,1 @@
+Notification subclass: #GitRepositoryDeleteRequest	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Notifications'

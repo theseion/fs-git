@@ -1,0 +1,1 @@
+TestCase subclass: #MCGitWriterTest	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello-Tests'

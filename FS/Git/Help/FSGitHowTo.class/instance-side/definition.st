@@ -1,0 +1,1 @@
+HelpOnFSGit subclass: #FSGitHowTo	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Help'

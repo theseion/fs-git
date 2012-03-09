@@ -1,0 +1,1 @@
+MCVersion subclass: #MCGitVersion	instanceVariableNames: 'filesystem'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

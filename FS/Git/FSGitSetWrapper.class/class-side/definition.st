@@ -1,0 +1,2 @@
+FSGitSetWrapper class
+	instanceVariableNames: ''

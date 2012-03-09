@@ -1,0 +1,1 @@
+Object subclass: #GitFSCK	instanceVariableNames: 'all repository reachable unreachable errors referenceContext'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

@@ -1,0 +1,2 @@
+GitPackedObject class
+	instanceVariableNames: ''

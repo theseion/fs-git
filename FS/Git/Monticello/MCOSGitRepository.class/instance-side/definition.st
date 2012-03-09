@@ -1,0 +1,1 @@
+MCGitRepository subclass: #MCOSGitRepository	instanceVariableNames: 'remote pushAutomatically'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

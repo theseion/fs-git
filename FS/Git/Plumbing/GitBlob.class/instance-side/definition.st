@@ -1,0 +1,1 @@
+GitStorableObject subclass: #GitBlob	instanceVariableNames: 'bytes'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

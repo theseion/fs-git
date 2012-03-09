@@ -1,0 +1,2 @@
+GitError class
+	instanceVariableNames: ''

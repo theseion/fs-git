@@ -1,0 +1,1 @@
+Object subclass: #FSGitSetWrapper	instanceVariableNames: 'set maxDepth'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git'

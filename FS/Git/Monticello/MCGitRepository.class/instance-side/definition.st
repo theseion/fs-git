@@ -1,0 +1,1 @@
+MCRepository subclass: #MCGitRepository	instanceVariableNames: 'reference'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

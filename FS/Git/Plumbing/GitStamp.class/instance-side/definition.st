@@ -1,0 +1,1 @@
+Object subclass: #GitStamp	instanceVariableNames: 'name email timeStamp'	classVariableNames: 'DefaultEmail DefaultName'	poolDictionaries: ''	category: 'FS-Git-Plumbing'

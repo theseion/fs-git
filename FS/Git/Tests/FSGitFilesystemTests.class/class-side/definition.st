@@ -1,0 +1,2 @@
+FSGitFilesystemTests class
+	instanceVariableNames: ''

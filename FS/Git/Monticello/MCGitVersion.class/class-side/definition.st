@@ -1,0 +1,2 @@
+MCGitVersion class
+	instanceVariableNames: ''

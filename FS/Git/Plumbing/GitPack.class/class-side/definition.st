@@ -1,0 +1,2 @@
+GitPack class
+	instanceVariableNames: ''

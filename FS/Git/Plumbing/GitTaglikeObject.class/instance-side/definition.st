@@ -1,0 +1,1 @@
+GitStorableObject subclass: #GitTaglikeObject	instanceVariableNames: 'message properties'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

@@ -1,0 +1,1 @@
+Notification subclass: #FSGitResetRequest	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Notifications'

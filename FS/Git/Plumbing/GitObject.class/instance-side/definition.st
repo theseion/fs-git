@@ -1,0 +1,1 @@
+Object subclass: #GitObject	instanceVariableNames: 'repository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

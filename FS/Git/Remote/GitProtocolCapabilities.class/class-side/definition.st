@@ -1,0 +1,2 @@
+GitProtocolCapabilities class
+	instanceVariableNames: ''

@@ -1,0 +1,1 @@
+GitError subclass: #GitValidationError	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Exceptions'

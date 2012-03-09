@@ -1,0 +1,1 @@
+MCRepositoryTest subclass: #MCGitRepositoryTest	instanceVariableNames: 'filesystem'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello-Tests'

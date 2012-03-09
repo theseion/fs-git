@@ -1,0 +1,2 @@
+GitStream class
+	instanceVariableNames: ''

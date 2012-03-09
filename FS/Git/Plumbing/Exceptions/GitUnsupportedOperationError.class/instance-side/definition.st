@@ -1,0 +1,1 @@
+GitError subclass: #GitUnsupportedOperationError	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing-Exceptions'

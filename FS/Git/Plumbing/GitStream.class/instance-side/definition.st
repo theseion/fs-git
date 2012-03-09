@@ -1,0 +1,1 @@
+Object subclass: #GitStream	instanceVariableNames: 'stream'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

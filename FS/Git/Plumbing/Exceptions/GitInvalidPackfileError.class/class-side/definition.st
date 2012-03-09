@@ -1,0 +1,2 @@
+GitInvalidPackfileError class
+	instanceVariableNames: ''

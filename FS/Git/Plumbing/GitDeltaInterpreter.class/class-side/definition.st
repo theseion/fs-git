@@ -1,0 +1,2 @@
+GitDeltaInterpreter class
+	instanceVariableNames: ''

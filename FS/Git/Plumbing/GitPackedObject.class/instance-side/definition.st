@@ -1,0 +1,1 @@
+Object subclass: #GitPackedObject	instanceVariableNames: 'pack file decodeClass length headerPos unpackedBytes repository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

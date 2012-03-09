@@ -1,0 +1,2 @@
+GitObjectLoaderTests class
+	instanceVariableNames: ''

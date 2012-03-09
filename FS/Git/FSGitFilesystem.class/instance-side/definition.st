@@ -1,0 +1,1 @@
+FSFilesystem subclass: #FSGitFilesystem	instanceVariableNames: 'repository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git'

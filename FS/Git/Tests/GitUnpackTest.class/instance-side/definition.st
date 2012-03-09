@@ -1,0 +1,1 @@
+Object subclass: #GitUnpackTest	instanceVariableNames: 'reader packVersion objectCount'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Tests'

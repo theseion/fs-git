@@ -1,0 +1,2 @@
+GitObjectNotFoundError class
+	instanceVariableNames: ''

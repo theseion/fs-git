@@ -1,0 +1,2 @@
+GitTag class
+	instanceVariableNames: ''

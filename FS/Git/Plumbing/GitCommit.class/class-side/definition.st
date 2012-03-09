@@ -1,0 +1,2 @@
+GitCommit class
+	instanceVariableNames: ''

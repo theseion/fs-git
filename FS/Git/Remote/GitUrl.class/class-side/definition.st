@@ -1,0 +1,2 @@
+GitUrl class
+	instanceVariableNames: ''

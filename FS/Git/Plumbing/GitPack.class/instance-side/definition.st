@@ -1,0 +1,1 @@
+Object subclass: #GitPack	instanceVariableNames: 'idx basePath fanoutTable objectCount packData'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

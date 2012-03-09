@@ -1,0 +1,2 @@
+GitObjectLoader class
+	instanceVariableNames: ''

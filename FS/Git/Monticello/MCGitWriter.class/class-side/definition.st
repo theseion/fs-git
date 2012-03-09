@@ -1,0 +1,2 @@
+MCGitWriter class
+	instanceVariableNames: ''

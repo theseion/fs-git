@@ -1,0 +1,2 @@
+GitRepositoryDeleteRequest class
+	instanceVariableNames: ''

@@ -1,0 +1,1 @@
+GitObject subclass: #GitStorableObject	instanceVariableNames: 'signature'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

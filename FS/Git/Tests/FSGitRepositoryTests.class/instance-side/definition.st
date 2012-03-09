@@ -1,0 +1,1 @@
+GitTestCase subclass: #FSGitRepositoryTests	instanceVariableNames: 'repository basicRepository'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Tests'

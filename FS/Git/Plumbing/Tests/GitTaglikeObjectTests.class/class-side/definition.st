@@ -1,0 +1,2 @@
+GitTaglikeObjectTests class
+	instanceVariableNames: ''

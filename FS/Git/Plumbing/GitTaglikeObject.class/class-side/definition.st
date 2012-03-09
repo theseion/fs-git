@@ -1,0 +1,2 @@
+GitTaglikeObject class
+	instanceVariableNames: ''

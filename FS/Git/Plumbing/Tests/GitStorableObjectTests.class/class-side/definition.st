@@ -1,0 +1,2 @@
+GitStorableObjectTests class
+	instanceVariableNames: ''

@@ -1,0 +1,2 @@
+GitValidationError class
+	instanceVariableNames: ''

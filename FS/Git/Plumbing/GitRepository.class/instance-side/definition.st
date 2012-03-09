@@ -1,0 +1,1 @@
+Object subclass: #GitRepository	instanceVariableNames: 'reference packs'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

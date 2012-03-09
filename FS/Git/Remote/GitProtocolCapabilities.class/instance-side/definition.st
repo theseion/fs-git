@@ -1,0 +1,1 @@
+Object subclass: #GitProtocolCapabilities	instanceVariableNames: 'capabilities'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

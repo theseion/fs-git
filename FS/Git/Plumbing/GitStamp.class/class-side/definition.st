@@ -1,0 +1,2 @@
+GitStamp class
+	instanceVariableNames: ''

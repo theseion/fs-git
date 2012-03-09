@@ -1,0 +1,2 @@
+GitSmartHtppProtocol class
+	instanceVariableNames: ''

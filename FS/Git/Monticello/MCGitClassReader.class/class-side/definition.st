@@ -1,0 +1,2 @@
+MCGitClassReader class
+	instanceVariableNames: ''

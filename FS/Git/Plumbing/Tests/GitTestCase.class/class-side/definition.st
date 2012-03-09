@@ -1,0 +1,2 @@
+GitTestCase class
+	instanceVariableNames: ''

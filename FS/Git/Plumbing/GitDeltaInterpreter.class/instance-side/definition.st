@@ -1,0 +1,1 @@
+Object subclass: #GitDeltaInterpreter	instanceVariableNames: 'source instructions output commands'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

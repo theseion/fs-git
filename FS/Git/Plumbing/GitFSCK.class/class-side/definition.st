@@ -1,0 +1,2 @@
+GitFSCK class
+	instanceVariableNames: ''

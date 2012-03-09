@@ -1,0 +1,2 @@
+FSGitSwitchBranchRequest class
+	instanceVariableNames: ''

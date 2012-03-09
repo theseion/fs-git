@@ -1,0 +1,2 @@
+MCGitRepositoryTest class
+	instanceVariableNames: ''

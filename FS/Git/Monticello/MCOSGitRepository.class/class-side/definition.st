@@ -1,0 +1,2 @@
+MCOSGitRepository class
+	instanceVariableNames: ''

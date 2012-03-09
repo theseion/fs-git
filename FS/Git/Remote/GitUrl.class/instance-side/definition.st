@@ -1,0 +1,1 @@
+HierarchicalUrl subclass: #GitUrl	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Remote'

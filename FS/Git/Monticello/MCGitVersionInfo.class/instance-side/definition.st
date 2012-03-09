@@ -1,0 +1,1 @@
+MCVersionInfo subclass: #MCGitVersionInfo	instanceVariableNames: 'commit filesystem aCommit'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Monticello'

@@ -1,0 +1,1 @@
+GitObject subclass: #GitTreeEntry	instanceVariableNames: 'mode objectSignature entryName'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

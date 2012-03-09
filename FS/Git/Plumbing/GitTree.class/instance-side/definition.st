@@ -1,0 +1,1 @@
+GitStorableObject subclass: #GitTree	instanceVariableNames: 'entries'	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Plumbing'

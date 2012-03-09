@@ -1,0 +1,1 @@
+FSFilesystemTest subclass: #FSGitFilesystemTests	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'FS-Git-Tests'

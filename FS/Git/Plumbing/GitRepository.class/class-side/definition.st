@@ -1,0 +1,2 @@
+GitRepository class
+	instanceVariableNames: ''
